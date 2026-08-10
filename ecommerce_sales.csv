@@ -1,0 +1,41 @@
+order_id,customer_id,customer_name,age,gender,city,state,category,product_name,quantity,unit_price,total_price,discount,order_date,payment_method,rating
+1001,C001,Aarav Sharma,28,Male,Mumbai,Maharashtra,Electronics,Smartphone,1,25000,25000,0.05,2023-01-05,Credit Card,4.5
+1002,C002,Priya Patel,35,Female,Delhi,Delhi,Clothing,Saree,2,3500,7000,0.10,2023-01-07,UPI,4.0
+1003,C003,Rahul Verma,22,Male,Bangalore,Karnataka,Electronics,Laptop,1,55000,55000,0.08,2023-01-10,Debit Card,4.8
+1004,C004,Sneha Reddy,30,Female,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,4500,4500,0.0,2023-01-12,Cash,3.5
+1005,C005,Vikram Singh,45,Male,Chennai,Tamil Nadu,Books,Python Programming,3,450,1350,0.15,2023-01-15,Credit Card,4.2
+1006,C006,Ananya Nair,27,Female,Pune,Maharashtra,Beauty,Skincare Kit,2,1800,3600,0.20,2023-01-18,UPI,4.6
+1007,C007,Arjun Mehta,33,Male,Kolkata,West Bengal,Electronics,Tablet,1,18000,18000,0.05,2023-01-20,Credit Card,4.3
+1008,C008,Deepa Iyer,40,Female,Jaipur,Rajasthan,Clothing,Kurta Set,3,1200,3600,0.10,2023-01-22,UPI,3.8
+1009,C009,Karan Gupta,25,Male,Lucknow,Uttar Pradesh,Sports,Cricket Bat,1,2500,2500,0.0,2023-02-01,Cash,4.1
+1010,C010,Meera Joshi,32,Female,Ahmedabad,Gujarat,Home & Kitchen,Pressure Cooker,2,2000,4000,0.05,2023-02-03,Debit Card,4.4
+1011,C011,Sanjay Kumar,55,Male,Mumbai,Maharashtra,Electronics,Smart TV,1,35000,35000,0.12,2023-02-05,Credit Card,4.7
+1012,C012,Pooja Sharma,29,Female,Delhi,Delhi,Books,Data Science Guide,2,600,1200,0.10,2023-02-08,UPI,4.0
+1013,C013,Rohit Das,38,Male,Bangalore,Karnataka,Sports,Yoga Mat,2,800,1600,0.05,2023-02-10,Cash,4.3
+1014,C014,Kavya Pillai,24,Female,Chennai,Tamil Nadu,Beauty,Lipstick Set,3,500,1500,0.15,2023-02-12,UPI,3.9
+1015,C015,Nikhil Rao,31,Male,Hyderabad,Telangana,Electronics,Earphones,2,2000,4000,0.0,2023-02-15,Credit Card,4.5
+1016,C016,Ritu Agarwal,42,Female,Pune,Maharashtra,Clothing,Dress,1,2200,2200,0.20,2023-02-18,Debit Card,3.7
+1017,C017,Amit Tiwari,26,Male,Kolkata,West Bengal,Home & Kitchen,Air Purifier,1,8000,8000,0.08,2023-02-20,Credit Card,4.6
+1018,C018,Sunita Pandey,36,Female,Jaipur,Rajasthan,Books,ML Handbook,1,750,750,0.0,2023-03-01,Cash,4.2
+1019,C019,Raj Malhotra,48,Male,Lucknow,Uttar Pradesh,Electronics,Camera,1,42000,42000,0.10,2023-03-05,Credit Card,4.9
+1020,C020,Priti Desai,23,Female,Ahmedabad,Gujarat,Sports,Badminton Set,1,1500,1500,0.05,2023-03-08,UPI,4.1
+1021,C001,Aarav Sharma,28,Male,Mumbai,Maharashtra,Books,AI Fundamentals,2,550,1100,0.10,2023-03-10,Credit Card,4.3
+1022,C003,Rahul Verma,22,Male,Bangalore,Karnataka,Sports,Football,1,900,900,0.0,2023-03-12,Cash,4.0
+1023,C005,Vikram Singh,45,Male,Chennai,Tamil Nadu,Electronics,Smart Watch,1,12000,12000,0.08,2023-03-15,Credit Card,4.6
+1024,C007,Arjun Mehta,33,Male,Kolkata,West Bengal,Clothing,Shirt Pack,3,800,2400,0.10,2023-03-18,UPI,3.8
+1025,C009,Karan Gupta,25,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Vacuum Cleaner,1,6000,6000,0.05,2023-03-20,Debit Card,4.4
+1026,C011,Sanjay Kumar,55,Male,Mumbai,Maharashtra,Beauty,Grooming Kit,1,1500,1500,0.15,2023-04-01,Cash,4.0
+1027,C002,Priya Patel,35,Female,Delhi,Delhi,Electronics,Bluetooth Speaker,1,3500,3500,0.0,2023-04-03,UPI,4.7
+1028,C004,Sneha Reddy,30,Female,Hyderabad,Telangana,Books,Statistics Guide,2,480,960,0.10,2023-04-05,Credit Card,4.1
+1029,C006,Ananya Nair,27,Female,Pune,Maharashtra,Sports,Dumbbells,2,1200,2400,0.05,2023-04-08,UPI,4.5
+1030,C008,Deepa Iyer,40,Female,Jaipur,Rajasthan,Electronics,Microwave,1,9500,9500,0.12,2023-04-10,Credit Card,4.2
+1031,C010,Meera Joshi,32,Female,Ahmedabad,Gujarat,Clothing,Lehenga,1,5500,5500,0.15,2023-04-12,Debit Card,4.8
+1032,C012,Pooja Sharma,29,Female,Delhi,Delhi,Home & Kitchen,Induction Cooktop,1,3200,3200,0.0,2023-04-15,Cash,4.3
+1033,C014,Kavya Pillai,24,Female,Chennai,Tamil Nadu,Books,Career Growth,1,350,350,0.10,2023-04-18,UPI,3.6
+1034,C016,Ritu Agarwal,42,Female,Pune,Maharashtra,Home & Kitchen,Water Purifier,1,12000,12000,0.08,2023-04-20,Credit Card,4.9
+1035,C018,Sunita Pandey,36,Female,Jaipur,Rajasthan,Sports,Treadmill,1,25000,25000,0.10,2023-05-01,Credit Card,4.7
+1036,C020,Priti Desai,23,Female,Ahmedabad,Gujarat,Beauty,Perfume Set,2,2000,4000,0.20,2023-05-03,UPI,4.4
+1037,C015,Nikhil Rao,31,Male,Hyderabad,Telangana,Clothing,Jeans,2,1800,3600,0.05,2023-05-05,Cash,4.0
+1038,C017,Amit Tiwari,26,Male,Kolkata,West Bengal,Electronics,Router,1,2800,2800,0.0,2023-05-08,Credit Card,4.2
+1039,C019,Raj Malhotra,48,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Refrigerator,1,28000,28000,0.12,2023-05-10,Credit Card,4.8
+1040,C013,Rohit Das,38,Male,Bangalore,Karnataka,Beauty,Hair Care Kit,1,1200,1200,0.15,2023-05-12,UPI,3.9
